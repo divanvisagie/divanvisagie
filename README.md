@@ -1,3 +1,8 @@
+You will find many kinds of projects on here, from contributions to Open Source libraries I tried to use and then broke and decided to fix, to projects to back up my [blogposts](https://divanv.com/), to just random experiments that I find useful to keep.
+
+While I write mainly backend microservice stuff by day, on here I pretty much just solve any computer related problem I have with code; whether it's [controlling my fan speed] or solving my [20GB Skyrim save file problem](https://github.com/divanvisagie/Arcanaeum) it's all fair game for this polyglot programmer.
+
+You will find the projects I am most proud of pinned below.
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=divanvisagie&count_private=true&hide=html,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
 
