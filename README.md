@@ -7,9 +7,8 @@ You will find the projects I am most proud of pinned below.
 #### Language Preferences in order
 [![My Skills](https://skillicons.dev/icons?i=rust,go,nodejs,py,java)](https://skillicons.dev)
 
-```java
-00001 INFO  contact.Email           : me@divanv.com
-00002 INFO  contact.code.Github     : https://github.com/divanvisagie
-00003 INFO  contact.social.Linkedin : https://www.linkedin.com/in/divan-visagie
-00004 INFO  contact.pesonal.Website : https://divanv.com
-```
+
+|Contact|Location|
+|-|-|
+|Email|me@divanv.com|
+|Linkedin|https://www.linkedin.com/in/divan-visagie|
