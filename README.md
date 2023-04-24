@@ -4,8 +4,6 @@ While I write mainly backend microservice stuff by day, on here I pretty much ju
 
 You will find the projects I am most proud of pinned below.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=divanvisagie&count_private=true&hide=html,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
-
 #### Language Preferences in order
 [![My Skills](https://skillicons.dev/icons?i=rust,go,nodejs,py,java)](https://skillicons.dev)
 
