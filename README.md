@@ -6,9 +6,10 @@ You will find the projects I am most proud of pinned below.
 
 #### Language Preferences in order
 [![Rust](https://skillicons.dev/icons?i=rust)](https://github.com/divanvisagie?tab=repositories&q=&type=&language=rust&sort=)
-[![TyoeScript](https://skillicons.dev/icons?i=ts)](https://github.com/divanvisagie?tab=repositories&q=&type=&language=typescript&sort=)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://github.com/divanvisagie?tab=repositories&q=&type=&language=typescript&sort=)
+[![C](https://skillicons.dev/icons?i=c)](https://github.com/divanvisagie?tab=repositories&q=&type=&language=c&sort=)
+[![Go](https://skillicons.dev/icons?i=go)](https://github.com/divanvisagie?tab=repositories&q=&type=&language=go&sort=)
 [![Python](https://skillicons.dev/icons?i=py)](https://github.com/divanvisagie?tab=repositories&q=&type=&language=python&sort=)
-[![Java](https://skillicons.dev/icons?i=java)](https://github.com/divanvisagie?tab=repositories&q=&type=&language=java&sort=)
 
 |Contact|Location|
 |-|-|
