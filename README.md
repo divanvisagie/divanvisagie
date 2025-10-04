@@ -5,7 +5,6 @@ You will find all kinds of projects here: from open source patches I made after 
 By day I work on a Consent Management team. For four years I have built systems at the boundary of law, compliance, and engineering: purpose based data access, real time consent checks, and user choice enforced at scale. That includes evaluating consent as close as possible to bulk send so recent changes are respected while still handling spike loads.  
 By night I build networked systems that think like Unix: text streams, composable tools, and clear boundaries.
 
----
 
 ## Current interests
 
@@ -17,7 +16,6 @@ By night I build networked systems that think like Unix: text streams, composabl
   - [GitHub → Sector-F-Labs/Reservoir](https://github.com/Sector-F-Labs/reservoir)  
   - [Talk: Relationships, Rust, and Reservoir](https://www.youtube.com/watch?v=oNc2ljo_BwU)
 
----
 
 ## Languages I actually enjoy
 [![Rust](https://skillicons.dev/icons?i=rust)](https://github.com/divanvisagie?tab=repositories&q=&type=&language=rust&sort=)
@@ -26,7 +24,6 @@ By night I build networked systems that think like Unix: text streams, composabl
 
 (Rust for structure, C for truth, TypeScript for survival.)
 
----
 
 ## Representative work
 
@@ -37,7 +34,6 @@ By night I build networked systems that think like Unix: text streams, composabl
 | [nv-settings-cli](https://github.com/Sector-F-Labs/nv-settings-cli) | CLI to control NVIDIA fan speed because GUIs should not have a monopoly on airflow. |
 | [Arcanaeum](https://github.com/divanvisagie/Arcanaeum) | Solved a 20 GB Skyrim save issue. The problem turned out not to be Skyrim. |
 
----
 
 ## Contact
 
@@ -46,7 +42,6 @@ By night I build networked systems that think like Unix: text streams, composabl
 | **Email** | [me@divanv.com](mailto:me@divanv.com) |
 | **Location** | Stockholm, Sweden |
 
----
 
 > "Do one thing well, then make it distributed.  
 > Everything else is ceremony."
