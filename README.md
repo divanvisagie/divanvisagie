@@ -1,6 +1,6 @@
 # Divan Visagie
 
-You will find all kinds of projects here: from open source patches I made after breaking things, to small utilities that fix my own problems, to larger experiments in how small programs can cooperate like systems.
+Welcome to my GitHub page, here you will find things from open source patches I made after breaking things, to small utilities that fix my own problems, to larger experiments in how small programs can cooperate like systems.
 
 By day I work on a Consent Management team. For four years I have built systems at the boundary of law, compliance, and engineering: purpose based data access, real time consent checks, and user choice enforced at scale. That includes evaluating consent as close as possible to bulk send so recent changes are respected while still handling spike loads.  
 By night I build networked systems that think like Unix: text streams, composable tools, and clear boundaries.
