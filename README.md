@@ -17,14 +17,6 @@ By night I build networked systems that think like Unix: text streams, composabl
   - [Talk: Relationships, Rust, and Reservoir](https://www.youtube.com/watch?v=oNc2ljo_BwU)
 
 
-## Languages I actually enjoy
-[![Rust](https://skillicons.dev/icons?i=rust)](https://github.com/divanvisagie?tab=repositories&q=&type=&language=rust&sort=)
-[![C](https://skillicons.dev/icons?i=c)](https://github.com/divanvisagie?tab=repositories&q=&type=&language=c&sort=)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://github.com/divanvisagie?tab=repositories&q=&type=&language=typescript&sort=)
-
-(Rust for structure, C for truth, TypeScript for survival.)
-
-
 ## Representative work
 
 | Project | Description |
